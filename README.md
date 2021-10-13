@@ -1,1 +1,1 @@
-# biscoito-sorte-react
+# Biscoito da Sorte (Em Desenvolvimento)
